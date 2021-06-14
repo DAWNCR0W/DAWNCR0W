@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @DAWNCR0W
 - 👀 I’m interested in iOS, Android Devleopment
 - 🌱 I’m currently learning Everything!
-- 📫 How to reach me im.dawncrow@gmail.com
+- 📫 How to reach me im.dawncrow@gmail.com and www.linkedin.com/in/donghyeok-seo
