@@ -27,7 +27,7 @@
   Security SDKs for iOS/Android/Flutter/Web, Macro prevention, Crypto module (C++, Jenkins CI/CD)
 
 - **Nolleowayo Market**  
-  Lead developer on 4 mobile apps (owner, rider, delivery, customer) in iOS/Flutter/Android
+  Lead developer on 4 mobile apps (owner, rider, delivery, customer) in iOS
 
 - **Savezone, OnemoaPoint**  
   All-in-one integrated service, built using iOS/Android/Flutter/Electron/Web
