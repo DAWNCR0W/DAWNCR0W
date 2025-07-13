@@ -27,7 +27,7 @@
   iOS/Android/Flutter/Web 연동 보안 솔루션, 매크로 방지, 암복호화 SDK (C++, Jenkins CI/CD)
 
 - **놀러와요 시장**  
-  4종 앱(점주, 라이더, 배달, 소비자) iOS/Flutter/Android 개발 총괄
+  4종 앱(점주, 라이더, 배달, 소비자) iOS 개발 총괄
 
 - **Savezone, OnemoaPoint**  
   iOS/Android/Flutter/Electron/웹 연동 통합 서비스 구축
